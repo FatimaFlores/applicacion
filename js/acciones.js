@@ -47,7 +47,7 @@ navigator.geolocation.getCurrentPosition(Localiza,ErrorLocalizacion);
 		element.innerHTML='Latitud:'+posicion.coords.latitude+'<br/>'+
 		'Longitud:'+posicion.coords.longitude+'<br/>'+
 		'Precisión:'+posicion.coords.accuracy+'<br/>'+
-		'Intervalo:'+posicion.coords.timestamp+'<br/>';
+		'Intervalo:'+posicion.timestamp+'<br/>';
 	}
 	//Error en la geolocalizacion
 	function ErrorLocalizacion(error){

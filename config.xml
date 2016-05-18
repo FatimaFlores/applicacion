@@ -23,7 +23,7 @@
  <gap:plugin name="org.apache.cordova.vibration" version="0.3.0"/>
 <gap:plugin name="org.apache.cordova.dialogs" version="0.2.6"/>
 <gap:plugin name="org.apache.cordova.geolocation" version="0.3.10"/>
-<gap:plugin name="org.apache.cordova.decive-motion" version="0.2.10"/>
+<gap:plugin name="org.apache.cordova.device-motion" version="0.2.10"/>
 
     <!--Colocar icono app-->
 	
